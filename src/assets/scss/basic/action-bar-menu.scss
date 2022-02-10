@@ -1,0 +1,24 @@
+@import "../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../@core/scss/base/components/include";
+.action-bar {
+  position: fixed;
+  top: 70px;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+.bg-light {
+  background-color: $white !important;
+}
+.navbar-brand {
+  font-weight: 500;
+  font-size: 1.285rem;
+  //   color: $dark !important;
+  color: #5e5873 !important;
+}
+.nav-item {
+  line-height: 0;
+  white-space: nowrap;
+}

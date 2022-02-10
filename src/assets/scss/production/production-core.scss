@@ -1,0 +1,30 @@
+.table-responsive {
+  max-height: 300px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+  color: black;
+}
+
+.cursor-pointer:hover {
+  color: #4a3bf0;
+}
+
+.react-table-height {
+  min-height: 30px !important;
+  padding: 0 20px 20px 20px !important;
+}
+
+.table th,
+.table td {
+  padding: 0.25rem 2rem !important;
+}
+
+.card-body-override {
+  padding: 0.7rem !important;
+}
+
+.custom-modal {
+  min-width: 690px !important;
+}

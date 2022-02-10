@@ -1,0 +1,104 @@
+@import "../../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../../@core/scss/base/components/include";
+
+.custom-table {
+  width: 100%;
+  .table-responsive {
+    width: 100%;
+    // overflow-y: initial;
+  }
+
+  th,
+  td {
+    // text-align: center;
+    min-width: 85px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    // max-width: 121px;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+}
+.item-segment-custom-table {
+  width: 100%;
+  .table-responsive {
+    width: 100%;
+    // overflow-y: initial;
+  }
+
+  th,
+  td {
+    min-width: 105px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    // max-width: 121px;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+}
+
+.custom-table-color-selection {
+  width: 100%;
+
+  .table-responsive {
+    width: 100%;
+  }
+  th {
+    min-width: 90px;
+    padding: 1px;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+  td {
+    .overflow-div {
+      height: 275px;
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+  }
+}
+
+.custom-table-color-size {
+  width: 100%;
+  .table-responsive {
+    width: 100%;
+  }
+  th,
+  td {
+    text-align: center;
+    min-width: 80px;
+    padding: 2px;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+}
+.form-control-sm {
+  height: 2.75rem;
+  font-size: 0.857rem;
+  line-height: 1;
+}
+
+.custom-table-inside-list {
+  width: 100%;
+  .table-responsive {
+    width: 100%;
+    // overflow-y: initial;
+  }
+
+  th,
+  td {
+    // text-align: center;
+    min-width: 85px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    // max-width: 121px;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+}

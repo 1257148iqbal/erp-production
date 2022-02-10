@@ -1,0 +1,39 @@
+@import "../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../@core/scss/base/components/include";
+.app-slider-main {
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  top: 0;
+  z-index: 1032;
+  background-color: rgba(0, 0, 0, 0.5);
+  .app-slider {
+    bottom: 0;
+    top: 0;
+    left: 0;
+    height: 100%;
+    position: fixed !important;
+    animation: animateleft 0.4s;
+    width: 300px;
+    z-index: 9999;
+    opacity: 1 !important;
+    .card {
+      bottom: 0;
+      top: 0;
+      height: 100%;
+      opacity: 1 !important;
+      z-index: 9999 !important;
+    }
+    @keyframes animateleft {
+      from {
+        left: -300px;
+        opacity: 0;
+      }
+      to {
+        left: 0;
+        opacity: 1;
+      }
+    }
+  }
+}

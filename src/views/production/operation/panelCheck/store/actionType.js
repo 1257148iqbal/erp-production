@@ -1,0 +1,15 @@
+/*
+     Title: Constant for PANEL_CHECK
+     Description: Constant for PANEL_CHECK
+     Author: Iqbal Hossain
+     Date: 22-January-2022
+     Modified: 22-January-2022
+*/
+
+export const FETCH_PANEL_CHECK = 'FETCH_PANEL_CHECK';
+export const FETCH_PANEL_CHECK_BY_QUERY = 'FETCH_PANEL_CHECK_BY_QUERY';
+export const FETCH_PANEL_CHECK_BY_ID = 'FETCH_PANEL_CHECK_BY_ID';
+
+/** Change Log
+ * 22-Jan-2022(Iqbal): Add TOGGLE_PANEL_CHECK_SIDEBAR, FETCH_PANEL_CHECK_BY_QUERY, ADD_PANEL_CHECK, DELETE_PANEL_CHECK, FETCH_PANEL_CHECK_BY_ID, UPDATE_PANEL_CHECK, DELETE_PANEL_CHECK_BY_RANGE
+ */

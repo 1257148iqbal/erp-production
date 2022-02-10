@@ -1,0 +1,16 @@
+/*
+     Title: Constant for ASSIGN_TARGET
+     Description: Constant for ASSIGN_TARGET
+     Author: Iqbal Hossain
+     Date: 27-January-2022
+     Modified: 27-January-2022
+*/
+
+export const FETCH_ASSIGN_TARGET = 'FETCH_ASSIGN_TARGET';
+export const FETCH_ASSIGN_TARGET_BY_QUERY = 'FETCH_ASSIGN_TARGET_BY_QUERY';
+export const FETCH_ASSIGN_TARGET_BY_ID = 'FETCH_ASSIGN_TARGET_BY_ID';
+export const SET_ASSIGN_TARGET_BY_RANGE = 'SET_ASSIGN_TARGET_BY_RANGE';
+
+/** Change Log
+ * 27-Jan-2022(Iqbal): Add FETCH_ASSIGN_TARGET_BY_QUERY, , FETCH_ASSIGN_TARGET, FETCH_ASSIGN_TARGET_BY_ID, FETCH_ASSIGN_TARGET_BY_RANGE
+ */
