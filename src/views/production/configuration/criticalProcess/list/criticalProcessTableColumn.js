@@ -1,7 +1,7 @@
 /**
  * Title: Table Columns for Critical Process
  * Description: Table Columns for Critical Process
- * Author: Nasir Ahmed
+ * Author: Iqbal Hossain
  * Date: 10-January-2022
  * Modified: 10-January-2022
  **/

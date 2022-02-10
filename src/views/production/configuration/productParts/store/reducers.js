@@ -1,7 +1,7 @@
 /**
  * Title: Reducer for product parts
  * Description:
- * Author: Nasir Ahmed
+ * Author: Iqbal Hossain
  * Date: 09-January-2022
  * Modified: 09-January-2022
  **/

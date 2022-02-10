@@ -1,7 +1,7 @@
 /**
  * Title: Product Parts List Page
  * Description: Product Parts List Page
- * Author: Nasir Ahmed
+ * Author: Iqbal Hossain
  * Date: 09-January-2022
  * Modified: 09-January-2022
  **/

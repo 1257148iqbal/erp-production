@@ -1,7 +1,7 @@
 /**
  * Title: Product Part add form
  * shortName: Product Part add form
- * Author: Nasir Ahmed
+ * Author: Iqbal Hossain
  * Date: 10-January-2022
  * Modified: 10-January-2022
  **/

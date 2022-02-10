@@ -1,7 +1,7 @@
 /**
  * Title: Action creators for product parts
  * Description: Action creators for product parts
- * Author: Nasir Ahmed
+ * Author: Iqbal Hossain
  * Date: 09-January-2022
  * Modified: 09-January-2022
  **/

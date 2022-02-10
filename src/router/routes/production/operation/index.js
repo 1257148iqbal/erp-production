@@ -5,15 +5,15 @@
      Date: 05-January-2022
      Modified: 05-January-2022
 */
-// import { assignInputTableRoute } from './assignInputTable';
-// import { assignTargetRoute } from './assignTarget';
+import { assignInputTableRoute } from './assignInputTable';
+import { assignTargetRoute } from './assignTarget';
 import { bundleRoute } from './bundle';
 import { cutPlanRoute } from './cutPlan';
 import { externalProcessRoute } from './externalProcess';
 import { finishingRoute } from './finishing';
 import { packagingRoute } from './packaging';
 import { panelCheckRoute } from './panelCheck';
-// import { sewingInspectionRoute } from './sewingInspection';
+import { sewingInspectionRoute } from './sewingInspection';
 import { sewingOutRoute } from './sewingOut';
 import { shipmentRoute } from './shipment';
 import { washRoute } from './wash';
@@ -21,14 +21,14 @@ import { washRoute } from './wash';
 export const operationRoutes = [
   ...cutPlanRoute,
   ...panelCheckRoute,
-  // ...assignInputTableRoute,
-  // ...assignTargetRoute,
+  ...assignInputTableRoute,
+  ...assignTargetRoute,
   ...bundleRoute,
   ...externalProcessRoute,
   ...finishingRoute,
   ...packagingRoute,
   ...sewingOutRoute,
-  // ...sewingInspectionRoute,
+  ...sewingInspectionRoute,
   ...shipmentRoute,
   ...washRoute
 ];

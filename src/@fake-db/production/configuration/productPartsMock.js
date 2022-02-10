@@ -1,7 +1,7 @@
 /*
      Title: Product Parts dummy data
      Description: Product Parts dummy data
-     Author: Nasir Ahmed
+     Author: Iqbal Hossain
      Date: 09-January-2022
      Modified: 09-January-2022
 */
